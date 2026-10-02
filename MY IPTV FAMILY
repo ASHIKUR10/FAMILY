@@ -7,6 +7,8 @@ https://cdn91.rongintv.workers.dev/ch/271038
 https://cdn91.rongintv.workers.dev/ch/355540
 #EXTINF:-1 tvg-id="376278" tvg-name="BD: Republic Bangla" tvg-logo="" group-title="বাংলা | টিভি",BD: Republic Bangla
 https://cdn91.rongintv.workers.dev/ch/376278
+#EXTINF:-1 tvg-id="510520" tvg-name="BD: MOVIE BANGLA" tvg-logo="" group-title="বাংলা | টিভি",BD: MOVIE BANGLA
+https://cdn91.rongintv.workers.dev/ch/510520
 #EXTINF:-1 tvg-id="183" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://thumbnail.imgbin.com/20/15/16/imgbin-colors-bangla-bengali-television-show-television-channel-nepalis-mMkyqFccg0kQacbaxGNmpXFFv_t.jpg" group-title="বাংলা | টিভি",IN: Colors_Bengali_HD
 https://cdn91.rongintv.workers.dev/ch/183
 #EXTINF:-1 tvg-id="198" tvg-name="BD : Star Jalsa HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="বাংলা | টিভি",BD : Star Jalsa HD
@@ -39,6 +41,8 @@ https://cdn91.rongintv.workers.dev/ch/403
 https://cdn91.rongintv.workers.dev/ch/404
 #EXTINF:-1 tvg-id="405" tvg-name="BD_Sangeet Bangali" tvg-logo="" group-title="বাংলা | টিভি",BD_Sangeet Bangali
 https://cdn91.rongintv.workers.dev/ch/405
+#EXTINF:-1 tvg-id="406" tvg-name="BD_Discovery_Channel_Bengali" tvg-logo="" group-title="বাংলা | টিভি",BD_Discovery_Channel_Bengali
+https://cdn91.rongintv.workers.dev/ch/406
 #EXTINF:-1 tvg-id="408" tvg-name="BD_Bijoy Tv" tvg-logo="" group-title="বাংলা | টিভি",BD_Bijoy Tv
 https://cdn91.rongintv.workers.dev/ch/408
 #EXTINF:-1 tvg-id="409" tvg-name="BD_Rupashi bangla" tvg-logo="" group-title="বাংলা | টিভি",BD_Rupashi bangla
@@ -155,99 +159,99 @@ https://cdn91.rongintv.workers.dev/ch/34665
 https://cdn91.rongintv.workers.dev/ch/49615
 #EXTINF:-1 tvg-id="144510" tvg-name="BD: Zee24Ghanta" tvg-logo="" group-title="বাংলা | টিভি",BD: Zee24Ghanta
 https://cdn91.rongintv.workers.dev/ch/144510
-#EXTINF:-1 tvg-id="257048" tvg-name="IN: DD Urdu" tvg-logo="" group-title="ভারত | টিভি",IN: DD Urdu
+#EXTINF:-1 tvg-id="257048" tvg-name="IN: DD Urdu" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: DD Urdu
 https://cdn91.rongintv.workers.dev/ch/257048
-#EXTINF:-1 tvg-id="257656" tvg-name="IN: Sanskar TV HD" tvg-logo="" group-title="ভারত | টিভি",IN: Sanskar TV HD
+#EXTINF:-1 tvg-id="257656" tvg-name="IN: Sanskar TV HD" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Sanskar TV HD
 https://cdn91.rongintv.workers.dev/ch/257656
-#EXTINF:-1 tvg-id="354291" tvg-name="IN: Aastha SD" tvg-logo="" group-title="ভারত | টিভি",IN: Aastha SD
+#EXTINF:-1 tvg-id="354291" tvg-name="IN: Aastha SD" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Aastha SD
 https://cdn91.rongintv.workers.dev/ch/354291
-#EXTINF:-1 tvg-id="355253" tvg-name="IN: BIG MAGIC SD" tvg-logo="" group-title="ভারত | টিভি",IN: BIG MAGIC SD
+#EXTINF:-1 tvg-id="355253" tvg-name="IN: BIG MAGIC SD" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: BIG MAGIC SD
 https://cdn91.rongintv.workers.dev/ch/355253
-#EXTINF:-1 tvg-id="355263" tvg-name="IN: DD Chhattisgarh SD" tvg-logo="" group-title="ভারত | টিভি",IN: DD Chhattisgarh SD
+#EXTINF:-1 tvg-id="355263" tvg-name="IN: DD Chhattisgarh SD" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: DD Chhattisgarh SD
 https://cdn91.rongintv.workers.dev/ch/355263
-#EXTINF:-1 tvg-id="355278" tvg-name="IN: Dangal 2 SD" tvg-logo="" group-title="ভারত | টিভি",IN: Dangal 2 SD
+#EXTINF:-1 tvg-id="355278" tvg-name="IN: Dangal 2 SD" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Dangal 2 SD
 https://cdn91.rongintv.workers.dev/ch/355278
-#EXTINF:-1 tvg-id="355478" tvg-name="IN: Goldmines_SD" tvg-logo="" group-title="ভারত | টিভি",IN: Goldmines_SD
+#EXTINF:-1 tvg-id="355478" tvg-name="IN: Goldmines_SD" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Goldmines_SD
 https://cdn91.rongintv.workers.dev/ch/355478
-#EXTINF:-1 tvg-id="355541" tvg-name="IN: Aastha Bhajan" tvg-logo="" group-title="ভারত | টিভি",IN: Aastha Bhajan
+#EXTINF:-1 tvg-id="355541" tvg-name="IN: Aastha Bhajan" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Aastha Bhajan
 https://cdn91.rongintv.workers.dev/ch/355541
-#EXTINF:-1 tvg-id="355556" tvg-name="IN: Manoranjan Grand SD" tvg-logo="" group-title="ভারত | টিভি",IN: Manoranjan Grand SD
+#EXTINF:-1 tvg-id="355556" tvg-name="IN: Manoranjan Grand SD" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Manoranjan Grand SD
 https://cdn91.rongintv.workers.dev/ch/355556
-#EXTINF:-1 tvg-id="371447" tvg-name="IN: DD Madhya Pradesh" tvg-logo="" group-title="ভারত | টিভি",IN: DD Madhya Pradesh
+#EXTINF:-1 tvg-id="371447" tvg-name="IN: DD Madhya Pradesh" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: DD Madhya Pradesh
 https://cdn91.rongintv.workers.dev/ch/371447
-#EXTINF:-1 tvg-id="371560" tvg-name="IN: Jinvani" tvg-logo="" group-title="ভারত | টিভি",IN: Jinvani
+#EXTINF:-1 tvg-id="371560" tvg-name="IN: Jinvani" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Jinvani
 https://cdn91.rongintv.workers.dev/ch/371560
-#EXTINF:-1 tvg-id="203" tvg-name="IN: Zee Anmol" tvg-logo="" group-title="ভারত | টিভি",IN: Zee Anmol
+#EXTINF:-1 tvg-id="203" tvg-name="IN: Zee Anmol" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Zee Anmol
 https://cdn91.rongintv.workers.dev/ch/203
-#EXTINF:-1 tvg-id="241" tvg-name="IN : Colors Rishtey TV" tvg-logo="" group-title="ভারত | টিভি",IN : Colors Rishtey TV
+#EXTINF:-1 tvg-id="241" tvg-name="IN : Colors Rishtey TV" tvg-logo="" group-title="ভারত | টিভি (SD)",IN : Colors Rishtey TV
 https://cdn91.rongintv.workers.dev/ch/241
-#EXTINF:-1 tvg-id="250" tvg-name="IN: Food Food" tvg-logo="" group-title="ভারত | টিভি",IN: Food Food
+#EXTINF:-1 tvg-id="250" tvg-name="IN: Food Food" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Food Food
 https://cdn91.rongintv.workers.dev/ch/250
-#EXTINF:-1 tvg-id="966" tvg-name="IN: ZEE Bollywood" tvg-logo="" group-title="ভারত | টিভি",IN: ZEE Bollywood
+#EXTINF:-1 tvg-id="966" tvg-name="IN: ZEE Bollywood" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: ZEE Bollywood
 https://cdn91.rongintv.workers.dev/ch/966
-#EXTINF:-1 tvg-id="967" tvg-name="IN: Zee Action" tvg-logo="" group-title="ভারত | টিভি",IN: Zee Action
+#EXTINF:-1 tvg-id="967" tvg-name="IN: Zee Action" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Zee Action
 https://cdn91.rongintv.workers.dev/ch/967
-#EXTINF:-1 tvg-id="968" tvg-name="IN : B4U Movies" tvg-logo="" group-title="ভারত | টিভি",IN : B4U Movies
+#EXTINF:-1 tvg-id="968" tvg-name="IN : B4U Movies" tvg-logo="" group-title="ভারত | টিভি (SD)",IN : B4U Movies
 https://cdn91.rongintv.workers.dev/ch/968
-#EXTINF:-1 tvg-id="972" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="" group-title="ভারত | টিভি",IN: STAR GOLD ROMANCE
+#EXTINF:-1 tvg-id="972" tvg-name="IN: STAR GOLD ROMANCE" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: STAR GOLD ROMANCE
 https://cdn91.rongintv.workers.dev/ch/972
-#EXTINF:-1 tvg-id="973" tvg-name="IN: SONY MAX 2" tvg-logo="" group-title="ভারত | টিভি",IN: SONY MAX 2
+#EXTINF:-1 tvg-id="973" tvg-name="IN: SONY MAX 2" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: SONY MAX 2
 https://cdn91.rongintv.workers.dev/ch/973
-#EXTINF:-1 tvg-id="2433" tvg-name="IN: MANORANJAN TV" tvg-logo="" group-title="ভারত | টিভি",IN: MANORANJAN TV
+#EXTINF:-1 tvg-id="2433" tvg-name="IN: MANORANJAN TV" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: MANORANJAN TV
 https://cdn91.rongintv.workers.dev/ch/2433
-#EXTINF:-1 tvg-id="3744" tvg-name="IN: STAR PLUS" tvg-logo="" group-title="ভারত | টিভি",IN: STAR PLUS
+#EXTINF:-1 tvg-id="3744" tvg-name="IN: STAR PLUS" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: STAR PLUS
 https://cdn91.rongintv.workers.dev/ch/3744
-#EXTINF:-1 tvg-id="4037" tvg-name="IN:  DD National HD" tvg-logo="" group-title="ভারত | টিভি",IN:  DD National HD
+#EXTINF:-1 tvg-id="4037" tvg-name="IN:  DD National HD" tvg-logo="" group-title="ভারত | টিভি (SD)",IN:  DD National HD
 https://cdn91.rongintv.workers.dev/ch/4037
-#EXTINF:-1 tvg-id="4038" tvg-name="IN:  DD Bihar" tvg-logo="" group-title="ভারত | টিভি",IN:  DD Bihar
+#EXTINF:-1 tvg-id="4038" tvg-name="IN:  DD Bihar" tvg-logo="" group-title="ভারত | টিভি (SD)",IN:  DD Bihar
 https://cdn91.rongintv.workers.dev/ch/4038
-#EXTINF:-1 tvg-id="4039" tvg-name="IN: DD India" tvg-logo="" group-title="ভারত | টিভি",IN: DD India
+#EXTINF:-1 tvg-id="4039" tvg-name="IN: DD India" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: DD India
 https://cdn91.rongintv.workers.dev/ch/4039
-#EXTINF:-1 tvg-id="4040" tvg-name="IN: DD Bharati" tvg-logo="" group-title="ভারত | টিভি",IN: DD Bharati
+#EXTINF:-1 tvg-id="4040" tvg-name="IN: DD Bharati" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: DD Bharati
 https://cdn91.rongintv.workers.dev/ch/4040
-#EXTINF:-1 tvg-id="4041" tvg-name="IN:  DD Kashir" tvg-logo="" group-title="ভারত | টিভি",IN:  DD Kashir
+#EXTINF:-1 tvg-id="4041" tvg-name="IN:  DD Kashir" tvg-logo="" group-title="ভারত | টিভি (SD)",IN:  DD Kashir
 https://cdn91.rongintv.workers.dev/ch/4041
-#EXTINF:-1 tvg-id="4042" tvg-name="IN: DD Kisan" tvg-logo="" group-title="ভারত | টিভি",IN: DD Kisan
+#EXTINF:-1 tvg-id="4042" tvg-name="IN: DD Kisan" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: DD Kisan
 https://cdn91.rongintv.workers.dev/ch/4042
-#EXTINF:-1 tvg-id="4045" tvg-name="IN:  DD India" tvg-logo="" group-title="ভারত | টিভি",IN:  DD India
+#EXTINF:-1 tvg-id="4045" tvg-name="IN:  DD India" tvg-logo="" group-title="ভারত | টিভি (SD)",IN:  DD India
 https://cdn91.rongintv.workers.dev/ch/4045
-#EXTINF:-1 tvg-id="4048" tvg-name="IN:  DD Uttar Pradesh" tvg-logo="" group-title="ভারত | টিভি",IN:  DD Uttar Pradesh
+#EXTINF:-1 tvg-id="4048" tvg-name="IN:  DD Uttar Pradesh" tvg-logo="" group-title="ভারত | টিভি (SD)",IN:  DD Uttar Pradesh
 https://cdn91.rongintv.workers.dev/ch/4048
-#EXTINF:-1 tvg-id="4050" tvg-name="IN:  DD Sahayadri" tvg-logo="" group-title="ভারত | টিভি",IN:  DD Sahayadri
+#EXTINF:-1 tvg-id="4050" tvg-name="IN:  DD Sahayadri" tvg-logo="" group-title="ভারত | টিভি (SD)",IN:  DD Sahayadri
 https://cdn91.rongintv.workers.dev/ch/4050
-#EXTINF:-1 tvg-id="4065" tvg-name="IN: Zee Salam" tvg-logo="" group-title="ভারত | টিভি",IN: Zee Salam
+#EXTINF:-1 tvg-id="4065" tvg-name="IN: Zee Salam" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Zee Salam
 https://cdn91.rongintv.workers.dev/ch/4065
-#EXTINF:-1 tvg-id="4077" tvg-name="IN: SONY WAH" tvg-logo="" group-title="ভারত | টিভি",IN: SONY WAH
+#EXTINF:-1 tvg-id="4077" tvg-name="IN: SONY WAH" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: SONY WAH
 https://cdn91.rongintv.workers.dev/ch/4077
-#EXTINF:-1 tvg-id="4085" tvg-name="IN: EPIC HD" tvg-logo="" group-title="ভারত | টিভি",IN: EPIC HD
+#EXTINF:-1 tvg-id="4085" tvg-name="IN: EPIC HD" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: EPIC HD
 https://cdn91.rongintv.workers.dev/ch/4085
-#EXTINF:-1 tvg-id="4324" tvg-name="IN: Star_Gold_2" tvg-logo="" group-title="ভারত | টিভি",IN: Star_Gold_2
+#EXTINF:-1 tvg-id="4324" tvg-name="IN: Star_Gold_2" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Star_Gold_2
 https://cdn91.rongintv.workers.dev/ch/4324
-#EXTINF:-1 tvg-id="4745" tvg-name="IN: Discovery Science" tvg-logo="" group-title="ভারত | টিভি",IN: Discovery Science
+#EXTINF:-1 tvg-id="4745" tvg-name="IN: Discovery Science" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Discovery Science
 https://cdn91.rongintv.workers.dev/ch/4745
-#EXTINF:-1 tvg-id="5249" tvg-name="IN:  Animal_Planet_Hindi" tvg-logo="" group-title="ভারত | টিভি",IN:  Animal_Planet_Hindi
+#EXTINF:-1 tvg-id="5249" tvg-name="IN:  Animal_Planet_Hindi" tvg-logo="" group-title="ভারত | টিভি (SD)",IN:  Animal_Planet_Hindi
 https://cdn91.rongintv.workers.dev/ch/5249
-#EXTINF:-1 tvg-id="5250" tvg-name="IN:  Discovery_Channel_Hindi" tvg-logo="" group-title="ভারত | টিভি",IN:  Discovery_Channel_Hindi
+#EXTINF:-1 tvg-id="5250" tvg-name="IN:  Discovery_Channel_Hindi" tvg-logo="" group-title="ভারত | টিভি (SD)",IN:  Discovery_Channel_Hindi
 https://cdn91.rongintv.workers.dev/ch/5250
-#EXTINF:-1 tvg-id="6627" tvg-name="IN: Sony Pal" tvg-logo="" group-title="ভারত | টিভি",IN: Sony Pal
+#EXTINF:-1 tvg-id="6627" tvg-name="IN: Sony Pal" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Sony Pal
 https://cdn91.rongintv.workers.dev/ch/6627
-#EXTINF:-1 tvg-id="7064" tvg-name="IN: Zee Classic" tvg-logo="" group-title="ভারত | টিভি",IN: Zee Classic
+#EXTINF:-1 tvg-id="7064" tvg-name="IN: Zee Classic" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Zee Classic
 https://cdn91.rongintv.workers.dev/ch/7064
-#EXTINF:-1 tvg-id="7065" tvg-name="IN: Zee Anmol Cinema" tvg-logo="" group-title="ভারত | টিভি",IN: Zee Anmol Cinema
+#EXTINF:-1 tvg-id="7065" tvg-name="IN: Zee Anmol Cinema" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Zee Anmol Cinema
 https://cdn91.rongintv.workers.dev/ch/7065
-#EXTINF:-1 tvg-id="7720" tvg-name="IN: Zee Hindustan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="ভারত | টিভি",IN: Zee Hindustan
+#EXTINF:-1 tvg-id="7720" tvg-name="IN: Zee Hindustan" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="ভারত | টিভি (SD)",IN: Zee Hindustan
 https://cdn91.rongintv.workers.dev/ch/7720
-#EXTINF:-1 tvg-id="9487" tvg-name="IN: E24" tvg-logo="" group-title="ভারত | টিভি",IN: E24
+#EXTINF:-1 tvg-id="9487" tvg-name="IN: E24" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: E24
 https://cdn91.rongintv.workers.dev/ch/9487
-#EXTINF:-1 tvg-id="9885" tvg-name="IN: SONY HD" tvg-logo="" group-title="ভারত | টিভি",IN: SONY HD
+#EXTINF:-1 tvg-id="9885" tvg-name="IN: SONY HD" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: SONY HD
 https://cdn91.rongintv.workers.dev/ch/9885
-#EXTINF:-1 tvg-id="9975" tvg-name="IN: Food Food" tvg-logo="" group-title="ভারত | টিভি",IN: Food Food
+#EXTINF:-1 tvg-id="9975" tvg-name="IN: Food Food" tvg-logo="" group-title="ভারত | টিভি (SD)",IN: Food Food
 https://cdn91.rongintv.workers.dev/ch/9975
-#EXTINF:-1 tvg-id="23917" tvg-name="IN:  Discovery Turbo" tvg-logo="https://banner2.cleanpng.com/20180704/hty/kisspng-discovery-turbo-television-channel-discovery-chann-rua-gabriel-oeschler-5b3cb4edd44231.0893172215307051338694.jpg" group-title="ভারত | টিভি",IN:  Discovery Turbo
+#EXTINF:-1 tvg-id="23917" tvg-name="IN:  Discovery Turbo" tvg-logo="https://banner2.cleanpng.com/20180704/hty/kisspng-discovery-turbo-television-channel-discovery-chann-rua-gabriel-oeschler-5b3cb4edd44231.0893172215307051338694.jpg" group-title="ভারত | টিভি (SD)",IN:  Discovery Turbo
 https://cdn91.rongintv.workers.dev/ch/23917
-#EXTINF:-1 tvg-id="53107" tvg-name="DANGAL" tvg-logo="" group-title="ভারত | টিভি",DANGAL
+#EXTINF:-1 tvg-id="53107" tvg-name="DANGAL" tvg-logo="" group-title="ভারত | টিভি (SD)",DANGAL
 https://cdn91.rongintv.workers.dev/ch/53107
-#EXTINF:-1 tvg-id="158970" tvg-name="IN: Star Utsav" tvg-logo="http://stariptv.fun/logos/Star_utsav.png" group-title="ভারত | টিভি",IN: Star Utsav
+#EXTINF:-1 tvg-id="158970" tvg-name="IN: Star Utsav" tvg-logo="http://stariptv.fun/logos/Star_utsav.png" group-title="ভারত | টিভি (SD)",IN: Star Utsav
 https://cdn91.rongintv.workers.dev/ch/158970
 #EXTINF:-1 tvg-id="121365" tvg-name="PK: Stage Shows" tvg-logo="" group-title="পাকিস্তান | টিভি",PK: Stage Shows
 https://cdn91.rongintv.workers.dev/ch/121365

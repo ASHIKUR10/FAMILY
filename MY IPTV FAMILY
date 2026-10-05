@@ -47,8 +47,6 @@ http://198.195.239.50:8095/COLORS.BANGLA.CINEMA/index.m3u8
 http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8
 #EXTINF:-1 group-title="বাংলা",GAZI.TV.HD
 http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",T-SPORTS-HD
-http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
 #EXTINF:-1 group-title="বাংলা",DURANTA.TV.HD
 http://198.195.239.50:8095/DURANTA.TV.HD/index.m3u8
 #EXTINF:-1 group-title="বাংলা",JAMUNA.TV
@@ -71,8 +69,6 @@ http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
 http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8
 #EXTINF:-1 group-title="বাংলা",PEACE.TV.BANGLA.HD
 http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",FAST.SPORTS.HD
-http://198.195.239.50:8095/FAST.SPORTS.HD/index.m3u8
 #EXTINF:-1 group-title="বাংলা",SANGEET.BANGLA
 http://198.195.239.50:8095/SANGEET.BANGLA/index.m3u8
 #EXTINF:-1 group-title="হিন্দি",COLORS.HD
@@ -101,30 +97,24 @@ http://198.195.239.50:8095/AXN.HD/index.m3u8
 http://198.195.239.50:8095/STAR.BHARAT.HD/index.m3u8
 #EXTINF:-1 group-title="হিন্দি",MTV.INDIA
 http://198.195.239.50:8095/MTV.INDIA/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",CARTOON NETWORK HD
-http://198.195.239.50:8095/cartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",POGO
-http://198.195.239.50:8095/pogo/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",NICK
-http://198.195.239.50:8095/nick/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",NICK JR
-http://198.195.239.50:8095/nickJr/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",SONIC
-http://198.195.239.50:8095/sonic/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",SONY YAY
-http://198.195.239.50:8095/sonyYay/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",CARTON.NETWORK.HD
-http://198.195.239.50:8095/CARTON.NETWORK.HD/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",SONIC
-http://198.195.239.50:8095/SONIC/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",NICK
-http://198.195.239.50:8095/NICK/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",POGO
-http://198.195.239.50:8095/POGO/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",NICK.JR
-http://198.195.239.50:8095/NICK.JR/index.m3u8
-#EXTINF:-1 group-title="কারটুন / Kids",SONY.YAY
-http://198.195.239.50:8095/SONY.YAY/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",SONY.MAX.HD
+http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",STAR.MOVIES.SEL.HD
+http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",SONY.PIX.HD
+http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",MNX.HD
+http://198.195.239.50:8095/MNX.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",STAR.MOVIES.HD
+http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",HUNGAMA
+http://198.195.239.50:8095/HUNGAMA/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",SUPER.HUNGAMA
+http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",T-SPORTS-HD
+http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",FAST.SPORTS.HD
+http://198.195.239.50:8095/FAST.SPORTS.HD/index.m3u8
 #EXTINF:-1 group-title="খেলাধুলা",SONY-SPORTS.5HD
 http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
 #EXTINF:-1 group-title="খেলাধুলা",STAR.SPORTS.SEL.2.HD
@@ -155,77 +145,87 @@ http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8
 http://198.195.239.50:8095/STAR.SPORTS.4K/index.m3u8
 #EXTINF:-1 group-title="খেলাধুলা",GOLF.SPORTS
 http://198.195.239.50:8095/GOLF.SPORTS/index.m3u8
-#EXTINF:-1 group-title="মুভি",ZEE.CINEMA.HD
+#EXTINF:-1 group-title="কারটুন",CARTOON NETWORK HD
+http://198.195.239.50:8095/cartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="কারটুন",POGO
+http://198.195.239.50:8095/pogo/index.m3u8
+#EXTINF:-1 group-title="কারটুন",NICK
+http://198.195.239.50:8095/nick/index.m3u8
+#EXTINF:-1 group-title="কারটুন",NICK JR
+http://198.195.239.50:8095/nickJr/index.m3u8
+#EXTINF:-1 group-title="কারটুন",SONIC
+http://198.195.239.50:8095/sonic/index.m3u8
+#EXTINF:-1 group-title="কারটুন",SONY YAY
+http://198.195.239.50:8095/sonyYay/index.m3u8
+#EXTINF:-1 group-title="কারটুন",CARTON.NETWORK.HD
+http://198.195.239.50:8095/CARTON.NETWORK.HD/index.m3u8
+#EXTINF:-1 group-title="কারটুন",SONIC
+http://198.195.239.50:8095/SONIC/index.m3u8
+#EXTINF:-1 group-title="কারটুন",NICK
+http://198.195.239.50:8095/NICK/index.m3u8
+#EXTINF:-1 group-title="কারটুন",POGO
+http://198.195.239.50:8095/POGO/index.m3u8
+#EXTINF:-1 group-title="কারটুন",NICK.JR
+http://198.195.239.50:8095/NICK.JR/index.m3u8
+#EXTINF:-1 group-title="কারটুন",SONY.YAY
+http://198.195.239.50:8095/SONY.YAY/index.m3u8
+#EXTINF:-1 group-title="অন্যান্য",ZEE.CINEMA.HD
 http://198.195.239.50:8095/ZEE.CINEMA.HD/index.m3u8
-#EXTINF:-1 group-title="মুভি",SONY.MAX.HD
-http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8
-#EXTINF:-1 group-title="মুভি",STAR.MOVIES.SEL.HD
-http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/index.m3u8
-#EXTINF:-1 group-title="মুভি",SONY.PIX.HD
-http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8
-#EXTINF:-1 group-title="মুভি",MNX.HD
-http://198.195.239.50:8095/MNX.HD/index.m3u8
-#EXTINF:-1 group-title="মুভি",STAR.MOVIES.HD
-http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8
-#EXTINF:-1 group-title="মুভি",MOVIES.NOW.HD
+#EXTINF:-1 group-title="অন্যান্য",MOVIES.NOW.HD
 http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8
-#EXTINF:-1 group-title="মুভি",HUNGAMA
-http://198.195.239.50:8095/HUNGAMA/index.m3u8
-#EXTINF:-1 group-title="মুভি",SUPER.HUNGAMA
-http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8
-#EXTINF:-1 group-title="মিউজিক",ZOOM.MUSIC
+#EXTINF:-1 group-title="অন্যান্য",ZOOM.MUSIC
 http://198.195.239.50:8095/ZOOM.MUSIC/index.m3u8
-#EXTINF:-1 group-title="মিউজিক",ZING.MUSIC
+#EXTINF:-1 group-title="অন্যান্য",ZING.MUSIC
 http://198.195.239.50:8095/ZING.MUSIC/index.m3u8
-#EXTINF:-1 group-title="মিউজিক",9XM.MUSIC
+#EXTINF:-1 group-title="অন্যান্য",9XM.MUSIC
 http://198.195.239.50:8095/9XM.MUSIC/index.m3u8
-#EXTINF:-1 group-title="মিউজিক",MUSIC.INDIA
+#EXTINF:-1 group-title="অন্যান্য",MUSIC.INDIA
 http://198.195.239.50:8095/MUSIC.INDIA/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",DISCOVERY HD
+#EXTINF:-1 group-title="অন্যান্য",DISCOVERY HD
 http://198.195.239.50:8095/discovery/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",ANIMAL PLANET HD
+#EXTINF:-1 group-title="অন্যান্য",ANIMAL PLANET HD
 http://198.195.239.50:8095/animalPlanet/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",TRAVEL XP
+#EXTINF:-1 group-title="অন্যান্য",TRAVEL XP
 http://198.195.239.50:8095/travelXp/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",SONY.BBC.EARTH.HD
+#EXTINF:-1 group-title="অন্যান্য",SONY.BBC.EARTH.HD
 http://198.195.239.50:8095/SONY.BBC.EARTH.HD/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",TLC.HD
+#EXTINF:-1 group-title="অন্যান্য",TLC.HD
 http://198.195.239.50:8095/TLC.HD/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",HISTORY.TV.18.HD
+#EXTINF:-1 group-title="অন্যান্য",HISTORY.TV.18.HD
 http://198.195.239.50:8095/HISTORY.TV.18.HD/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",DISCOVERY.HD
+#EXTINF:-1 group-title="অন্যান্য",DISCOVERY.HD
 http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",ANIMAL.PLANET.HD
+#EXTINF:-1 group-title="অন্যান্য",ANIMAL.PLANET.HD
 http://198.195.239.50:8095/ANIMAL.PLANET.HD/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",XPLOR.HD
+#EXTINF:-1 group-title="অন্যান্য",XPLOR.HD
 http://198.195.239.50:8095/XPLOR.HD/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",TRAVELXP.HD
+#EXTINF:-1 group-title="অন্যান্য",TRAVELXP.HD
 http://198.195.239.50:8095/TRAVELXP.HD/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",BBC.Earth.HD
+#EXTINF:-1 group-title="অন্যান্য",BBC.Earth.HD
 http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8
-#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",LOVE.NATURE
+#EXTINF:-1 group-title="অন্যান্য",LOVE.NATURE
 http://198.195.239.50:8095/LOVE.NATURE/index.m3u8
-#EXTINF:-1 group-title="পাকিস্তানি",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 group-title="অন্যান্য",NATIONAL GEOGRAPHIC HD
 http://198.195.239.50:8095/nationalGeographic/index.m3u8
-#EXTINF:-1 group-title="পাকিস্তানি",NATGEO.WILD.HD
+#EXTINF:-1 group-title="অন্যান্য",NATGEO.WILD.HD
 http://198.195.239.50:8095/NATGEO.WILD.HD/index.m3u8
-#EXTINF:-1 group-title="পাকিস্তানি",NATGEO.HD
+#EXTINF:-1 group-title="অন্যান্য",NATGEO.HD
 http://198.195.239.50:8095/NATGEO.HD/index.m3u8
-#EXTINF:-1 group-title="পাকিস্তানি",HUM.MASALA.TV
+#EXTINF:-1 group-title="অন্যান্য",HUM.MASALA.TV
 http://198.195.239.50:8095/HUM.MASALA.TV/index.m3u8
-#EXTINF:-1 group-title="পাকিস্তানি",GEO.NEWS.HD
+#EXTINF:-1 group-title="অন্যান্য",GEO.NEWS.HD
 http://198.195.239.50:8095/GEO.NEWS.HD/index.m3u8
-#EXTINF:-1 group-title="পাকিস্তানি",Lotus.TV.HD
+#EXTINF:-1 group-title="অন্যান্য",Lotus.TV.HD
 http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8
-#EXTINF:-1 group-title="নিউজ",ALJAZEERA.HD
+#EXTINF:-1 group-title="অন্যান্য",ALJAZEERA.HD
 http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8
-#EXTINF:-1 group-title="নিউজ",ATN.NEWS.HD
+#EXTINF:-1 group-title="অন্যান্য",ATN.NEWS.HD
 http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
-#EXTINF:-1 group-title="নিউজ",DW.NEWS.HD
+#EXTINF:-1 group-title="অন্যান্য",DW.NEWS.HD
 http://198.195.239.50:8095/DW.NEWS.HD/index.m3u8
-#EXTINF:-1 group-title="নিউজ",NEWS.24
+#EXTINF:-1 group-title="অন্যান্য",NEWS.24
 http://198.195.239.50:8095/NEWS.24/index.m3u8
-#EXTINF:-1 group-title="নিউজ",BBC.NEWS
+#EXTINF:-1 group-title="অন্যান্য",BBC.NEWS
 http://198.195.239.50:8095/BBC.NEWS/index.m3u8
 #EXTINF:-1 group-title="অন্যান্য",COLOR BANGLA HD
 http://198.195.239.50:8095/colorsBangla/index.m3u8

@@ -1,134 +1,243 @@
 #EXTM3U
-# ═══════════════════════════════════════════════════════════
-# ╔═════════════════════════════════════════════════════════╗
-# ║                                                         ║
-# ║              🌸  राधे राधे  🌸                           ║
-# ║                                                         ║
-# ║           ✨  Krishna Subroto  ✨                        ║
-# ║                                                         ║
-# ╠═════════════════════════════════════════════════════════╣
-# ║  📱 Telegram Username : @Krishna_Subroto                ║
-# ║  📢 Telegram Channel  : https://t.me/+Yt77AMSPg1BjMDRl  ║
-# ╠═════════════════════════════════════════════════════════╣
-# ║  🎯 Tool Name       : V07                             ║
-# ║  🧑 Developer       : @Krishna_Subroto                ║
-# ║  ⚡ Codename        : XTREME KILLER                   ║
-# ║  🔖 Version         : 7.0.0-FINAL                     ║
-# ║  🕐 Generated On    : 2026-10-02 10:53:41             ║
-# ║  🌐 Source          : LIVE TV Scan - http://line.skyli║
-# ║  📊 Total Links     : 51                              ║
-# ║  ✅ Status          : 100% VERIFIED WORKING           ║
-# ╚═════════════════════════════════════════════════════════╝
-# ═══════════════════════════════════════════════════════════
-#  ⚠️  এই প্লেলিস্টটি শুধুমাত্র পার্সোনাল ব্যবহারের জন্য।
-#      বাণিজ্যিক ব্যবহার নিষিদ্ধ। ক্রেডিট পরিবর্তন করবেন না।
-# ═══════════════════════════════════════════════════════════
-#
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/aakaashbangla.png",BANGLA ▎AAKAASH BANGLA [11367ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108785.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/anandatv.png",BANGLA ▎ANANDA TV [901ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108878.ts
-#EXTINF:-1 tvg-logo="",BANGLA ▎ASIAN TV [814ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/1440997.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/atnnewsbangla.png",BANGLA ▎ATN NEWS [20893ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108792.ts
-#EXTINF:-1 tvg-logo="",BANGLA ▎BANGLA VISION [14663ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/1441001.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/bijoytv.png",BANGLA ▎BIJOY TV [15889ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108797.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/btv.png",BANGLA ▎BTV [10844ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108801.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/btvworld.png",BANGLA ▎BTV WORLD [10919ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108800.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/channel9.png",BANGLA ▎CHANNEL 9 [872ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108803.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/channeli.png",BANGLA ▎CHANNEL I [11862ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108805.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/colors.png",BANGLA ▎COLORS BANGLA HD [11128ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108781.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ddbangla.png",BANGLA ▎DD BANGLA [21460ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108809.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/dhoommusic.png",BANGLA ▎DHOOM MUSIC [955ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108813.ts
-#EXTINF:-1 tvg-logo="",BANGLA ▎EKUSHEY [14584ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/1441003.ts
-#EXTINF:-1 tvg-logo="",BANGLA ▎IQRA TV BANGLA [11698ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/1440967.ts
-#EXTINF:-1 tvg-logo="",BANGLA ▎ISLAM TV EU [819ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/1440970.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/starjalsha.png",BANGLA ▎JALSHA MOVIES [1134ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108783.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/madanichannel.png",BANGLA ▎MADANI TV BANGLA [21352ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108866.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/mohonatv.png",BANGLA ▎MOHONA TV [1162ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108824.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/news24.png",BANGLA ▎NEWS 24 HD [20795ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108849.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/somoynews.png",BANGLA ▎NEWS18 BANGLA [1330ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108838.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ntv.png",BANGLA ▎NTV [15716ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108830.ts
-#EXTINF:-1 tvg-logo="",BANGLA ▎REPUBLIC BANGLA [889ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/1440978.ts
-#EXTINF:-1 tvg-logo="",BANGLA ▎SANGEET BANGLA [5516ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/1458371.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/satv.png",BANGLA ▎SATV [21585ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108836.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/starjalsha.png",BANGLA ▎STAR JALSHA HD [1476ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108868.ts
-#EXTINF:-1 tvg-logo="",BANGLA ▎STAR JALSHA MOVIES [14079ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/1458372.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/sunbangla.png",BANGLA ▎SUN BANGLA [20562ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/126098.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/tsports2.png",BANGLA ▎T-SPORTS 2 [11716ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/756462.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/atnbangla.png",BANGLA ▎UK| ATN BANGLA [11248ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/5227.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/channels.png",BANGLA ▎UK| CHANNEL S [1185ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108777.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/deentv.png",BANGLA ▎UK| DEEN TV [11368ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/756461.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/iontv.png",BANGLA ▎UK| ION TV [10950ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108778.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ntv.png",BANGLA ▎UK| NTV [790ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/2434.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/tvone.png",BANGLA ▎UK| TV ONE [11044ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108779.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/zeebangla.png",BANGLA ▎ZEE BANGLA [944ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108850.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/zeebangla.png",BANGLA ▎ZEE BANGLA CINEMA [20947ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108845.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/zeebangla.png",BANGLA ▎ZEE BANGLA HD [10999ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/108860.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/24ghanta.png",BENGALI ▎24 GHANTA [749ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/112574.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/abpananda.png",BENGALI ▎ABP ANANDA [800ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/112573.ts
-#EXTINF:-1 tvg-logo="",BENGALI ▎CN NEWS [13367ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/1441547.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/colorsgujarati.png",BENGALI ▎COLORS BANGLA HD [760ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/63526.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/ddbangla.png",BENGALI ▎DD BANGLA [811ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/66112.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/nationalgeographic.png",BENGALI ▎NAT GEO HD [814ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/63557.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/sangeetbangla.png",BENGALI ▎SANGEET BANGLA [778ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/63393.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/starjalsha.png",BENGALI ▎STAR JALSHA HD [744ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/63525.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/starjalsha.png",BENGALI ▎STAR JALSHA MOVIES HD [799ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/63524.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/tataskybollywood.png",BENGALI ▎TATA PLAY BANGLA CINEMA HD [783ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/63329.ts
-#EXTINF:-1 tvg-logo="",BENGALI ▎TV9 BANGLA [778ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/1441548.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/zeebangla.png",BENGALI ▎ZEE BANGLA CINEMA [796ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/112575.ts
-#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/zeebangla.png",BENGALI ▎ZEE BANGLA HD [802ms]
-http://line.skyline-global.xyz/live/8D34C00/07F341/112571.ts
-
-# ═══════════════════════════════════════════════════════════
-#  🌸  ধন্যবাদ | Thank You For Using  🌸
-#  📢 Join : https://t.me/+Yt77AMSPg1BjMDRl
-#  📱 Credit : @Krishna_Subroto
-# ═══════════════════════════════════════════════════════════
+#EXTINF:-1 group-title="বাংলা",SHOMOY TV HD
+http://198.195.239.50:8095/somoyTv/index.m3u8
+#EXTINF:-1 group-title="বাংলা",BTV
+http://198.195.239.50:8095/btv/index.m3u8
+#EXTINF:-1 group-title="বাংলা",STAR JALSHA HD
+http://198.195.239.50:8095/starJalsha/index.m3u8
+#EXTINF:-1 group-title="বাংলা",JALSHA MOVIES HD
+http://198.195.239.50:8095/jalshaMovies/index.m3u8
+#EXTINF:-1 group-title="বাংলা",ZEE BANGLA  HD
+http://198.195.239.50:8095/zeeBangla/index.m3u8
+#EXTINF:-1 group-title="বাংলা",SONY AATH
+http://198.195.239.50:8095/sonyAath/index.m3u8
+#EXTINF:-1 group-title="বাংলা",SANGEET BANGLA
+http://198.195.239.50:8095/sangeetBangla/index.m3u8
+#EXTINF:-1 group-title="বাংলা",DURANTA
+http://198.195.239.50:8095/duranta/index.m3u8
+#EXTINF:-1 group-title="বাংলা",BTV.HD
+http://198.195.239.50:8095/BTV.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",DEEPTOTV.HD
+http://198.195.239.50:8095/DEEPTOTV.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",DBC.NEWS.HD
+http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",BOISAKHI.TV.HD
+http://198.195.239.50:8095/BOISAKHI.TV.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",EAKHON.TV.HD
+http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",EKATTOR.TV.HD
+http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",COLORS.BANGLA.HD
+http://198.195.239.50:8095/COLORS.BANGLA.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",ZEE.BANGLA.HD
+http://198.195.239.50:8095/ZEE.BANGLA.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",SUN.BANGLA.HD
+http://198.195.239.50:8095/SUN.BANGLA.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",JALSHA.MOVIES.HD
+http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",STAR.JALSHA.HD
+http://198.195.239.50:8095/STAR.JALSHA.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",ZEE.BANGLA.CINEMA
+http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8
+#EXTINF:-1 group-title="বাংলা",SONY.AAT
+http://198.195.239.50:8095/SONY.AAT/index.m3u8
+#EXTINF:-1 group-title="বাংলা",COLORS.BANGLA.CINEMA
+http://198.195.239.50:8095/COLORS.BANGLA.CINEMA/index.m3u8
+#EXTINF:-1 group-title="বাংলা",NAGORIK.TV.HD
+http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",GAZI.TV.HD
+http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",T-SPORTS-HD
+http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",DURANTA.TV.HD
+http://198.195.239.50:8095/DURANTA.TV.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",JAMUNA.TV
+http://198.195.239.50:8095/JAMUNA.TV/index.m3u8
+#EXTINF:-1 group-title="বাংলা",INDEPENDENT.TV
+http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8
+#EXTINF:-1 group-title="বাংলা",MASRANGA.TV.HD
+http://198.195.239.50:8095/MASRANGA.TV.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",SOMOY.TV.HD
+http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",ATN.BANGLA.HD
+http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",CHANNEL.I.HD
+http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",CHANNEL.24.HD
+http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",MADANI.TV.HD
+http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",ENTER10.BANGLA
+http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8
+#EXTINF:-1 group-title="বাংলা",PEACE.TV.BANGLA.HD
+http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",FAST.SPORTS.HD
+http://198.195.239.50:8095/FAST.SPORTS.HD/index.m3u8
+#EXTINF:-1 group-title="বাংলা",SANGEET.BANGLA
+http://198.195.239.50:8095/SANGEET.BANGLA/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",COLORS.HD
+http://198.195.239.50:8095/COLORS.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",ZEE.TV.HD
+http://198.195.239.50:8095/ZEE.TV.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",COLORS.CINEPLEX.HD
+http://198.195.239.50:8095/COLORS.CINEPLEX.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",SONY.ENT.HD
+http://198.195.239.50:8095/SONY.ENT.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",STAR.GOLD.HD
+http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",STAR.PLUS.HD
+http://198.195.239.50:8095/STAR.PLUS.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",ROMEDY.NOW
+http://198.195.239.50:8095/ROMEDY.NOW/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",MN.PLUS.HD
+http://198.195.239.50:8095/MN.PLUS.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",AND.PRIVE.HD
+http://198.195.239.50:8095/AND.PRIVE.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",ETV.BAL.BHARAT
+http://198.195.239.50:8095/ETV.BAL.BHARAT/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",AXN.HD
+http://198.195.239.50:8095/AXN.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",STAR.BHARAT.HD
+http://198.195.239.50:8095/STAR.BHARAT.HD/index.m3u8
+#EXTINF:-1 group-title="হিন্দি",MTV.INDIA
+http://198.195.239.50:8095/MTV.INDIA/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",CARTOON NETWORK HD
+http://198.195.239.50:8095/cartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",POGO
+http://198.195.239.50:8095/pogo/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",NICK
+http://198.195.239.50:8095/nick/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",NICK JR
+http://198.195.239.50:8095/nickJr/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",SONIC
+http://198.195.239.50:8095/sonic/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",SONY YAY
+http://198.195.239.50:8095/sonyYay/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",CARTON.NETWORK.HD
+http://198.195.239.50:8095/CARTON.NETWORK.HD/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",SONIC
+http://198.195.239.50:8095/SONIC/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",NICK
+http://198.195.239.50:8095/NICK/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",POGO
+http://198.195.239.50:8095/POGO/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",NICK.JR
+http://198.195.239.50:8095/NICK.JR/index.m3u8
+#EXTINF:-1 group-title="কারটুন / Kids",SONY.YAY
+http://198.195.239.50:8095/SONY.YAY/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",SONY-SPORTS.5HD
+http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",STAR.SPORTS.SEL.2.HD
+http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",STAR.SPORTS-SEL1.HD
+http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",STAR.SPORTS2.HD
+http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",SONY.SPORTS2.HD
+http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",SONY.SPORTS.3
+http://198.195.239.50:8095/SONY.SPORTS.3/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",STAR.SPORTS1.HD
+http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",STAR-SPORTS.3
+http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",EUROSPORTS.HD
+http://198.195.239.50:8095/EUROSPORTS.HD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",SONY.SPORTS.4
+http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",SONY.SPORTS.1HD
+http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",A.SPORTS.HD
+http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",PTV-SPORTS-HD
+http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",STAR.SPORTS.4K
+http://198.195.239.50:8095/STAR.SPORTS.4K/index.m3u8
+#EXTINF:-1 group-title="খেলাধুলা",GOLF.SPORTS
+http://198.195.239.50:8095/GOLF.SPORTS/index.m3u8
+#EXTINF:-1 group-title="মুভি",ZEE.CINEMA.HD
+http://198.195.239.50:8095/ZEE.CINEMA.HD/index.m3u8
+#EXTINF:-1 group-title="মুভি",SONY.MAX.HD
+http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8
+#EXTINF:-1 group-title="মুভি",STAR.MOVIES.SEL.HD
+http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/index.m3u8
+#EXTINF:-1 group-title="মুভি",SONY.PIX.HD
+http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8
+#EXTINF:-1 group-title="মুভি",MNX.HD
+http://198.195.239.50:8095/MNX.HD/index.m3u8
+#EXTINF:-1 group-title="মুভি",STAR.MOVIES.HD
+http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8
+#EXTINF:-1 group-title="মুভি",MOVIES.NOW.HD
+http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8
+#EXTINF:-1 group-title="মুভি",HUNGAMA
+http://198.195.239.50:8095/HUNGAMA/index.m3u8
+#EXTINF:-1 group-title="মুভি",SUPER.HUNGAMA
+http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8
+#EXTINF:-1 group-title="মিউজিক",ZOOM.MUSIC
+http://198.195.239.50:8095/ZOOM.MUSIC/index.m3u8
+#EXTINF:-1 group-title="মিউজিক",ZING.MUSIC
+http://198.195.239.50:8095/ZING.MUSIC/index.m3u8
+#EXTINF:-1 group-title="মিউজিক",9XM.MUSIC
+http://198.195.239.50:8095/9XM.MUSIC/index.m3u8
+#EXTINF:-1 group-title="মিউজিক",MUSIC.INDIA
+http://198.195.239.50:8095/MUSIC.INDIA/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",DISCOVERY HD
+http://198.195.239.50:8095/discovery/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",ANIMAL PLANET HD
+http://198.195.239.50:8095/animalPlanet/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",TRAVEL XP
+http://198.195.239.50:8095/travelXp/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",SONY.BBC.EARTH.HD
+http://198.195.239.50:8095/SONY.BBC.EARTH.HD/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",TLC.HD
+http://198.195.239.50:8095/TLC.HD/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",HISTORY.TV.18.HD
+http://198.195.239.50:8095/HISTORY.TV.18.HD/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",DISCOVERY.HD
+http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",ANIMAL.PLANET.HD
+http://198.195.239.50:8095/ANIMAL.PLANET.HD/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",XPLOR.HD
+http://198.195.239.50:8095/XPLOR.HD/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",TRAVELXP.HD
+http://198.195.239.50:8095/TRAVELXP.HD/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",BBC.Earth.HD
+http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8
+#EXTINF:-1 group-title="ডকুমেন্টারি / অন্যান্য",LOVE.NATURE
+http://198.195.239.50:8095/LOVE.NATURE/index.m3u8
+#EXTINF:-1 group-title="পাকিস্তানি",NATIONAL GEOGRAPHIC HD
+http://198.195.239.50:8095/nationalGeographic/index.m3u8
+#EXTINF:-1 group-title="পাকিস্তানি",NATGEO.WILD.HD
+http://198.195.239.50:8095/NATGEO.WILD.HD/index.m3u8
+#EXTINF:-1 group-title="পাকিস্তানি",NATGEO.HD
+http://198.195.239.50:8095/NATGEO.HD/index.m3u8
+#EXTINF:-1 group-title="পাকিস্তানি",HUM.MASALA.TV
+http://198.195.239.50:8095/HUM.MASALA.TV/index.m3u8
+#EXTINF:-1 group-title="পাকিস্তানি",GEO.NEWS.HD
+http://198.195.239.50:8095/GEO.NEWS.HD/index.m3u8
+#EXTINF:-1 group-title="পাকিস্তানি",Lotus.TV.HD
+http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8
+#EXTINF:-1 group-title="নিউজ",ALJAZEERA.HD
+http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8
+#EXTINF:-1 group-title="নিউজ",ATN.NEWS.HD
+http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
+#EXTINF:-1 group-title="নিউজ",DW.NEWS.HD
+http://198.195.239.50:8095/DW.NEWS.HD/index.m3u8
+#EXTINF:-1 group-title="নিউজ",NEWS.24
+http://198.195.239.50:8095/NEWS.24/index.m3u8
+#EXTINF:-1 group-title="নিউজ",BBC.NEWS
+http://198.195.239.50:8095/BBC.NEWS/index.m3u8
+#EXTINF:-1 group-title="অন্যান্য",COLOR BANGLA HD
+http://198.195.239.50:8095/colorsBangla/index.m3u8
+#EXTINF:-1 group-title="অন্যান্য",COLOR BANGLA CHINEMA HD
+http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8
+#EXTINF:-1 group-title="অন্যান্য",ENTER 10 BANGLA
+http://198.195.239.50:8095/enter10Bangla/index.m3u8
+#EXTINF:-1 group-title="অন্যান্য",ETV.BANGLA.HD
+http://198.195.239.50:8095/ETV.BANGLA.HD/index.m3u8
+#EXTINF:-1 group-title="অন্যান্য",ANT.PICTURS.HD
+http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8
+#EXTINF:-1 group-title="অন্যান্য",UNITE8.2.HD
+http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
+#EXTINF:-1 group-title="অন্যান্য",UNITE8.1.HD
+http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8

@@ -1,243 +1,105 @@
 #EXTM3U
-#EXTINF:-1 group-title="বাংলা",SHOMOY TV HD
-http://198.195.239.50:8095/somoyTv/index.m3u8
-#EXTINF:-1 group-title="বাংলা",BTV
-http://198.195.239.50:8095/btv/index.m3u8
-#EXTINF:-1 group-title="বাংলা",STAR JALSHA HD
-http://198.195.239.50:8095/starJalsha/index.m3u8
-#EXTINF:-1 group-title="বাংলা",JALSHA MOVIES HD
-http://198.195.239.50:8095/jalshaMovies/index.m3u8
-#EXTINF:-1 group-title="বাংলা",ZEE BANGLA  HD
-http://198.195.239.50:8095/zeeBangla/index.m3u8
-#EXTINF:-1 group-title="বাংলা",SONY AATH
-http://198.195.239.50:8095/sonyAath/index.m3u8
-#EXTINF:-1 group-title="বাংলা",SANGEET BANGLA
-http://198.195.239.50:8095/sangeetBangla/index.m3u8
-#EXTINF:-1 group-title="বাংলা",DURANTA
-http://198.195.239.50:8095/duranta/index.m3u8
-#EXTINF:-1 group-title="বাংলা",BTV.HD
-http://198.195.239.50:8095/BTV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",DEEPTOTV.HD
-http://198.195.239.50:8095/DEEPTOTV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",DBC.NEWS.HD
-http://198.195.239.50:8095/DBC.NEWS.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",BOISAKHI.TV.HD
-http://198.195.239.50:8095/BOISAKHI.TV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",EAKHON.TV.HD
-http://198.195.239.50:8095/EAKHON.TV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",EKATTOR.TV.HD
-http://198.195.239.50:8095/EKATTOR.TV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",COLORS.BANGLA.HD
-http://198.195.239.50:8095/COLORS.BANGLA.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",ZEE.BANGLA.HD
-http://198.195.239.50:8095/ZEE.BANGLA.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",SUN.BANGLA.HD
-http://198.195.239.50:8095/SUN.BANGLA.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",JALSHA.MOVIES.HD
-http://198.195.239.50:8095/JALSHA.MOVIES.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",STAR.JALSHA.HD
-http://198.195.239.50:8095/STAR.JALSHA.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",ZEE.BANGLA.CINEMA
-http://198.195.239.50:8095/ZEE.BANGLA.CINEMA/index.m3u8
-#EXTINF:-1 group-title="বাংলা",SONY.AAT
-http://198.195.239.50:8095/SONY.AAT/index.m3u8
-#EXTINF:-1 group-title="বাংলা",COLORS.BANGLA.CINEMA
-http://198.195.239.50:8095/COLORS.BANGLA.CINEMA/index.m3u8
-#EXTINF:-1 group-title="বাংলা",NAGORIK.TV.HD
-http://198.195.239.50:8095/NAGORIK.TV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",GAZI.TV.HD
-http://198.195.239.50:8095/GAZI.TV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",DURANTA.TV.HD
-http://198.195.239.50:8095/DURANTA.TV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",JAMUNA.TV
-http://198.195.239.50:8095/JAMUNA.TV/index.m3u8
-#EXTINF:-1 group-title="বাংলা",INDEPENDENT.TV
-http://198.195.239.50:8095/INDEPENDENT.TV/index.m3u8
-#EXTINF:-1 group-title="বাংলা",MASRANGA.TV.HD
-http://198.195.239.50:8095/MASRANGA.TV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",SOMOY.TV.HD
-http://198.195.239.50:8095/SOMOY.TV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",ATN.BANGLA.HD
-http://198.195.239.50:8095/ATN.BANGLA.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",CHANNEL.I.HD
-http://198.195.239.50:8095/CHANNEL.I.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",CHANNEL.24.HD
-http://198.195.239.50:8095/CHANNEL.24.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",MADANI.TV.HD
-http://198.195.239.50:8095/MADANI.TV.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",ENTER10.BANGLA
-http://198.195.239.50:8095/ENTER10.BANGLA/index.m3u8
-#EXTINF:-1 group-title="বাংলা",PEACE.TV.BANGLA.HD
-http://198.195.239.50:8095/PEACE.TV.BANGLA.HD/index.m3u8
-#EXTINF:-1 group-title="বাংলা",SANGEET.BANGLA
-http://198.195.239.50:8095/SANGEET.BANGLA/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",COLORS.HD
-http://198.195.239.50:8095/COLORS.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",ZEE.TV.HD
-http://198.195.239.50:8095/ZEE.TV.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",COLORS.CINEPLEX.HD
-http://198.195.239.50:8095/COLORS.CINEPLEX.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",SONY.ENT.HD
-http://198.195.239.50:8095/SONY.ENT.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",STAR.GOLD.HD
-http://198.195.239.50:8095/STAR.GOLD.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",STAR.PLUS.HD
-http://198.195.239.50:8095/STAR.PLUS.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",ROMEDY.NOW
-http://198.195.239.50:8095/ROMEDY.NOW/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",MN.PLUS.HD
-http://198.195.239.50:8095/MN.PLUS.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",AND.PRIVE.HD
-http://198.195.239.50:8095/AND.PRIVE.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",ETV.BAL.BHARAT
-http://198.195.239.50:8095/ETV.BAL.BHARAT/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",AXN.HD
-http://198.195.239.50:8095/AXN.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",STAR.BHARAT.HD
-http://198.195.239.50:8095/STAR.BHARAT.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",MTV.INDIA
-http://198.195.239.50:8095/MTV.INDIA/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",SONY.MAX.HD
-http://198.195.239.50:8095/SONY.MAX.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",STAR.MOVIES.SEL.HD
-http://198.195.239.50:8095/STAR.MOVIES.SEL.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",SONY.PIX.HD
-http://198.195.239.50:8095/SONY.PIX.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",MNX.HD
-http://198.195.239.50:8095/MNX.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",STAR.MOVIES.HD
-http://198.195.239.50:8095/STAR.MOVIES.HD/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",HUNGAMA
-http://198.195.239.50:8095/HUNGAMA/index.m3u8
-#EXTINF:-1 group-title="হিন্দি",SUPER.HUNGAMA
-http://198.195.239.50:8095/SUPER.HUNGAMA/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",T-SPORTS-HD
-http://198.195.239.50:8095/T-SPORTS-HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",FAST.SPORTS.HD
-http://198.195.239.50:8095/FAST.SPORTS.HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",SONY-SPORTS.5HD
-http://198.195.239.50:8095/SONY-SPORTS.5HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",STAR.SPORTS.SEL.2.HD
-http://198.195.239.50:8095/STAR.SPORTS.SEL.2.HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",STAR.SPORTS-SEL1.HD
-http://198.195.239.50:8095/STAR.SPORTS-SEL1.HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",STAR.SPORTS2.HD
-http://198.195.239.50:8095/STAR.SPORTS2.HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",SONY.SPORTS2.HD
-http://198.195.239.50:8095/SONY.SPORTS2.HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",SONY.SPORTS.3
-http://198.195.239.50:8095/SONY.SPORTS.3/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",STAR.SPORTS1.HD
-http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",STAR-SPORTS.3
-http://198.195.239.50:8095/STAR-SPORTS.3/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",EUROSPORTS.HD
-http://198.195.239.50:8095/EUROSPORTS.HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",SONY.SPORTS.4
-http://198.195.239.50:8095/SONY.SPORTS.4/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",SONY.SPORTS.1HD
-http://198.195.239.50:8095/SONY.SPORTS.1HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",A.SPORTS.HD
-http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",PTV-SPORTS-HD
-http://198.195.239.50:8095/PTV-SPORTS-HD/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",STAR.SPORTS.4K
-http://198.195.239.50:8095/STAR.SPORTS.4K/index.m3u8
-#EXTINF:-1 group-title="খেলাধুলা",GOLF.SPORTS
-http://198.195.239.50:8095/GOLF.SPORTS/index.m3u8
-#EXTINF:-1 group-title="কারটুন",CARTOON NETWORK HD
-http://198.195.239.50:8095/cartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="কারটুন",POGO
-http://198.195.239.50:8095/pogo/index.m3u8
-#EXTINF:-1 group-title="কারটুন",NICK
-http://198.195.239.50:8095/nick/index.m3u8
-#EXTINF:-1 group-title="কারটুন",NICK JR
-http://198.195.239.50:8095/nickJr/index.m3u8
-#EXTINF:-1 group-title="কারটুন",SONIC
-http://198.195.239.50:8095/sonic/index.m3u8
-#EXTINF:-1 group-title="কারটুন",SONY YAY
-http://198.195.239.50:8095/sonyYay/index.m3u8
-#EXTINF:-1 group-title="কারটুন",CARTON.NETWORK.HD
-http://198.195.239.50:8095/CARTON.NETWORK.HD/index.m3u8
-#EXTINF:-1 group-title="কারটুন",SONIC
-http://198.195.239.50:8095/SONIC/index.m3u8
-#EXTINF:-1 group-title="কারটুন",NICK
-http://198.195.239.50:8095/NICK/index.m3u8
-#EXTINF:-1 group-title="কারটুন",POGO
-http://198.195.239.50:8095/POGO/index.m3u8
-#EXTINF:-1 group-title="কারটুন",NICK.JR
-http://198.195.239.50:8095/NICK.JR/index.m3u8
-#EXTINF:-1 group-title="কারটুন",SONY.YAY
-http://198.195.239.50:8095/SONY.YAY/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",ZEE.CINEMA.HD
-http://198.195.239.50:8095/ZEE.CINEMA.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",MOVIES.NOW.HD
-http://198.195.239.50:8095/MOVIES.NOW.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",ZOOM.MUSIC
-http://198.195.239.50:8095/ZOOM.MUSIC/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",ZING.MUSIC
-http://198.195.239.50:8095/ZING.MUSIC/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",9XM.MUSIC
-http://198.195.239.50:8095/9XM.MUSIC/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",MUSIC.INDIA
-http://198.195.239.50:8095/MUSIC.INDIA/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",DISCOVERY HD
-http://198.195.239.50:8095/discovery/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",ANIMAL PLANET HD
-http://198.195.239.50:8095/animalPlanet/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",TRAVEL XP
-http://198.195.239.50:8095/travelXp/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",SONY.BBC.EARTH.HD
-http://198.195.239.50:8095/SONY.BBC.EARTH.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",TLC.HD
-http://198.195.239.50:8095/TLC.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",HISTORY.TV.18.HD
-http://198.195.239.50:8095/HISTORY.TV.18.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",DISCOVERY.HD
-http://198.195.239.50:8095/DISCOVERY.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",ANIMAL.PLANET.HD
-http://198.195.239.50:8095/ANIMAL.PLANET.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",XPLOR.HD
-http://198.195.239.50:8095/XPLOR.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",TRAVELXP.HD
-http://198.195.239.50:8095/TRAVELXP.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",BBC.Earth.HD
-http://198.195.239.50:8095/BBC.Earth.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",LOVE.NATURE
-http://198.195.239.50:8095/LOVE.NATURE/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",NATIONAL GEOGRAPHIC HD
-http://198.195.239.50:8095/nationalGeographic/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",NATGEO.WILD.HD
-http://198.195.239.50:8095/NATGEO.WILD.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",NATGEO.HD
-http://198.195.239.50:8095/NATGEO.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",HUM.MASALA.TV
-http://198.195.239.50:8095/HUM.MASALA.TV/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",GEO.NEWS.HD
-http://198.195.239.50:8095/GEO.NEWS.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",Lotus.TV.HD
-http://198.195.239.50:8095/Lotus.TV.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",ALJAZEERA.HD
-http://198.195.239.50:8095/ALJAZEERA.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",ATN.NEWS.HD
-http://198.195.239.50:8095/ATN.NEWS.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",DW.NEWS.HD
-http://198.195.239.50:8095/DW.NEWS.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",NEWS.24
-http://198.195.239.50:8095/NEWS.24/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",BBC.NEWS
-http://198.195.239.50:8095/BBC.NEWS/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",COLOR BANGLA HD
-http://198.195.239.50:8095/colorsBangla/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",COLOR BANGLA CHINEMA HD
-http://198.195.239.50:8095/colorsBanglaChinema/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",ENTER 10 BANGLA
-http://198.195.239.50:8095/enter10Bangla/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",ETV.BANGLA.HD
-http://198.195.239.50:8095/ETV.BANGLA.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",ANT.PICTURS.HD
-http://198.195.239.50:8095/ANT.PICTURS.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",UNITE8.2.HD
-http://198.195.239.50:8095/UNITE8.2.HD/index.m3u8
-#EXTINF:-1 group-title="অন্যান্য",UNITE8.1.HD
-http://198.195.239.50:8095/UNITE8.1.HD/index.m3u8
+#EXTINF:-1 group-title="Hindi",Shemaroo Music Hits
+https://shemaroo.keralive.workers.dev/du_filmigaane/du_filmigaane_1080/playlist.m3u8
+#EXTINF:-1 group-title="বাংলা",Bangla Plus
+https://da86m1sqpm3o0.cloudfront.net/260723/smil:zeebangla.smil/index.m3u8
+#EXTINF:-1 group-title="বাংলা",Sangeet Bangla
+https://cdn.pishow.tv/ott/live/1143/master.m3u8
+#EXTINF:-1 group-title="Hindi",Ndtv Good Times
+https://d2gvyg6lvauoko.cloudfront.net/230226/ndtvgoodtimes/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="Hindi",Shemaroo Bollywood 2
+https://shemaroo-bollywood.keralive.workers.dev/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",Dd National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 group-title="বাংলা",News 18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 group-title="বাংলা",Rupashi Bangla
+https://yupp-tv.keralive.workers.dev/28072023/smil:rupashibangla.smil/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",India Tv
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 group-title="Hindi",Shemaroo Comedy
+https://shemaroo.keralive.workers.dev/du_comedy/du_comedy_1080/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",Shemaroo Movies
+https://shemaroo.keralive.workers.dev/du_bollywoodmovies1/du_bollywoodmovies_1080/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",Shemaroo Bollywood
+https://runn-tv.keralive.workers.dev/shemaroo/stream/smrbol/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",Shemaroo Filmi Gaane
+https://runn-tv.keralive.workers.dev/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",Shemaroo Umang
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",Shemaroo Tv
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",Shemaroo Kids
+https://shemaroo.keralive.workers.dev/du_kids/du_kids_1080/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",Hindi Khabar
+https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="Hindi",Ndtv 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="Hindi",Ndtv Profit
+https://yuppnimrestreammum.akamaized.net/181224/smil:ndtvprofit.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="Hindi",Aaj Tak
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 group-title="Hindi",Ndtv India
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679-b//ndtvindia//master.m3u8
+#EXTINF:-1 group-title="Hindi",Ndtv Mp Chhattisgarh
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-860950/main.m3u8
+#EXTINF:-1 group-title="Hindi",Anand Tv Hindi
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/bc87c6ce-e887-442b-beaf-67753925f0d9/index.m3u8
+#EXTINF:-1 group-title="বাংলা",Republic Bangla
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+#EXTINF:-1 group-title="বাংলা",Tv9 Bangla
+https://d38ws2hnaao15k.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/tv9_bangla/amg01106c1/hls.m3u8
+#EXTINF:-1 group-title="বাংলা",News Time Bangla
+https://yuppnimrestreammum.akamaized.net/181224/smil:newstime.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="বাংলা",Nktv Bangla
+https://d2gvyg6lvauoko.cloudfront.net/230226/nktv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="Hindi",India Tv Speed News
+https://vg-indiatvyupp.akamaized.net/ptnr-indiatv_monitoring/title-IndiaTV_Speed_News_NonSSAI/v1/vglive-sk-479089/main.m3u8
+#EXTINF:-1 group-title="Hindi",Shemaroo Marathibana
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+#EXTINF:-1 group-title="বাংলা",U Bangla Tv
+https://stream.ottlive.co.in/ubangla/index.m3u8
+#EXTINF:-1 group-title="বাংলা",B Prime Bangla
+https://ranacable.duckdns.org/Bprimebangla/index.m3u8
+#EXTINF:-1 group-title="Hindi",Ndtv Rajasthan
+https://vg-ndtvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-753641/main.m3u8
+#EXTINF:-1 group-title="বাংলা",Digital Bangla
+https://uttar-purbanewsmedia.cloud/hls/dbangla/dbangla_live24X7/index.m3u8
+#EXTINF:-1 group-title="Hindi",Cartoon Network Hindi
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1 group-title="বাংলা",Bangla Plus Hd
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 group-title="বাংলা",Aalo Tv Bangla
+https://ranacable.duckdns.org/AloTv/video.m3u8
+#EXTINF:-1 group-title="বাংলা",Upohar Bangla
+https://ranacable.duckdns.org/UpoharBangla/video.m3u8
+#EXTINF:-1 group-title="বাংলা",Orange Bangla
+https://cdn.pishow.tv/ott/live/1499/master.m3u8
+#EXTINF:-1 group-title="বাংলা",Enterr 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Hindi",Abp News
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
+#EXTINF:-1 group-title="বাংলা",Bengali Beats
+https://live20.bozztv.com/giatvplayout7/giatv-209587/index.m3u8
+#EXTINF:-1 group-title="বাংলা",Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1 group-title="Hindi",Ndtv Marathi
+https://web-ndtv-marathi.akamaized.net//hls//live//2110470//ndtvmarathi//master_1.m3u8
+#EXTINF:-1 group-title="Hindi",Aaj Tak Hd
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="Hindi",Ndtv World
+https://yupprestreamliveus.akamaized.net/v1/vglive-sk-401405/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/main.m3u8
+#EXTINF:-1 group-title="বাংলা",Dd Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+#EXTINF:-1 group-title="Hindi",Xxtreme Jobs Hindi
+https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zko1curyce7jh/IQJW/WBD/XXtremeJobs_IN/XXtremeJobs_IN.m3u8
+#EXTINF:-1 group-title="বাংলা",Bangla Jago Tv
+https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
+#EXTINF:-1 group-title="Hindi",India Tv Aap Ki Adalat
+https://vg-indiatvyupp.akamaized.net/ptnr-indiatv_monitoring/title-IndiaTV_AKA_NonSSAI/v1/vglive-sk-912213/main.m3u8
+#EXTINF:-1 group-title="Hindi",India Tv Yoga
+https://vg-indiatvyupp.akamaized.net/ptnr-indiatv_monitoring/title-IndiaTV_Yoga_Non_SSAI/v1/vglive-sk-385006/main.m3u8
+#EXTINF:-1 group-title="বাংলা",On Tv Bangla
+https://mumt03.tangotv.in/ONTV/index.m3u8
